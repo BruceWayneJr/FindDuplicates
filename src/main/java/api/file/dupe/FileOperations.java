@@ -18,7 +18,6 @@ public class FileOperations {
         Contains the list of all customers in the csv file
      */
     private static List<Customer> customers;
-    
 
     /**
      * @param file is the attached csv file
@@ -150,7 +149,6 @@ public class FileOperations {
         nonNullValues[2] = threshold + "";
         return nonNullValues;
     }
-
     public FileOperations() {
     }
 }

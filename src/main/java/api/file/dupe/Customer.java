@@ -1,6 +1,7 @@
 package api.file.dupe;
 /**
 	Customer class holds all customer data and methods to get specific data
+	@constructor accepts a string []
  */
 public class Customer {
 

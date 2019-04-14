@@ -29,7 +29,6 @@ export class NavBar extends React.Component {
                             </a>
                         </li>
                     </ul>
-
                 </div>
             </div>
         </nav>

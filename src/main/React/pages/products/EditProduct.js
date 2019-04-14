@@ -32,7 +32,6 @@ class EditProductCmp extends React.Component {
                 </div>
             </div>
         </div>
-
     }
 };
 

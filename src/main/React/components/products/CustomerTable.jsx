@@ -16,14 +16,13 @@ var root = {
 var table = {
     minWidth: 700,
     };
+
 export default class CustomerTable extends React.Component {
     constructor(props) {
         super(props)
         this.shouldComponentUpdate = PureRenderMixin.shouldComponentUpdate.bind(this)
     }
     
-        
-      
     getProducts(){
         if(!this.props.products){
             return []

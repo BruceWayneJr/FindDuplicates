@@ -26,4 +26,3 @@ export class PageWithLeftBarLayout extends React.Component {
         </div>
     }
 }
-
