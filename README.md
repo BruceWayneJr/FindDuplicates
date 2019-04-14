@@ -20,3 +20,6 @@ or by running Application class from your IDE.
 ```sh
 $ npm start
 ```
+
+#### Upload your CSV file or view results from options in the sidebar
+https://user-images.githubusercontent.com/14130479/56097532-8be22c80-5ec3-11e9-94a4-21c490c35adb.png
