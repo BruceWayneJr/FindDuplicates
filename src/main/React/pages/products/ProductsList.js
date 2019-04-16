@@ -48,10 +48,8 @@ class ProductsListCmp extends React.Component {
                 </div>
             </div>
         </div>
-
     }
 };
-
 
 function mapStateToProps(state) {
     return {

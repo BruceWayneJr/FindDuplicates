@@ -14,11 +14,9 @@ export default class SideBar extends React.Component {
 
             <div className="sidebar-wrapper">
                 <div className="logo">
-
                     <Link to="/" className="simple-text">
                         MENU
                     </Link>
-
                 </div>
 
                 <ul className="nav">

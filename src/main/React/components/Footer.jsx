@@ -17,9 +17,7 @@ export default class Footer extends React.Component {
                             <Link to="/app">
                                 Home
                             </Link>
-
                         </li>
-
                     </ul>
                 </nav>
                 <p className="copyright pull-right">

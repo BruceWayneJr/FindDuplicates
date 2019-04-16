@@ -9,7 +9,6 @@ import {  combineReducers, applyMiddleware } from 'redux'
 import {initStore} from './store'
 
 const store = initStore()
-
 render(
     <Provider store={store}>
         <Router children={routes} history={hashHistory} />
